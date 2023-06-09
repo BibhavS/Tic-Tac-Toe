@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading{
+    padding: 10px 0px;
+    font-size: 16px;
+}
+
+.item{
+    height: 90px;
+    width: 90px;
+    font-size: 60px;
+}
+
+.result{
+    position: relative;
+    left: 0px;
+    top: 20px;
+    font-size: 15px;
+    padding: 8px 20px;
+}
+
+.reset {
+    margin-top: 60px;
+    font-size: 18px;
+    padding: 8px 30px;
+}
+ 
